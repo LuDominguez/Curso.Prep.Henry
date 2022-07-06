@@ -1,0 +1,5 @@
+Variables: Guardan información en determinado lugar, que después se puede invocar. 
+Strings: Son cadenas de caracteres y se escriben entre comillas. 
+Funciones: Las funciones permiten agrupar código que vamos a usar varias veces. Este código se guarda y luego se puede ejecutar. Las funciones siempre devuelven algo. En algunos casos, aquello que devuelve no está definido, por el caracter de la función, pero, en otros, devuelven determinada información. Para que esto último suceda, es necesario usar el statement return y colocar dentro de él qué es l oque queremos que la función nos devuelva. Return puede ser utilizado una sola vez dentro de la función y solo nos devolverá el código que esté escrito por encima de él. 
+Valores booleanos: Los valores booleanos evaluan si determinada condición es verdadera o falsa en términos lógicos.
+Statement if: If nos permite agregar lógica al cógido, y ejecuta según determinadas condiciones. Si estas condiciones se cumplen, la ejecución nos devolverá un valor booleano verdadero. En caso contrario, falso.
